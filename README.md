@@ -31,7 +31,7 @@ Bem-vindo à série de cursos da Sociedade Pinguim, focada em Lógica de Program
    - utilizando a estrutura de repetição Loop While
      
 8. **Calculadora + BigBashView**
-   - Desenvolvimento de uma calculadora  utilizando algoritimos e todo o conteudo que foi aprendido 
+   - Desenvolvimento de uma calculadora  utilizando algoritimos com todo o conteudo que foi aprendido 
   
 
 
