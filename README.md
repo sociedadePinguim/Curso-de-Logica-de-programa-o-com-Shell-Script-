@@ -11,14 +11,14 @@ Bem-vindo à série de cursos da Sociedade Pinguim, focada em Lógica de Program
    
 
 2. **Variaveis**
-   - aprendendo variaveis
+   - Aprendendo variaveis
      
 3. **Comentando o codigo**
    - Criando comentarios no Shell
    
 
 4. **Um pouco mais complexo**
-   - criando o seu primeiro programa em shell
+   - Criando o seu primeiro programa em shell
    
 
 5. **Estrutura de decisão**
@@ -28,7 +28,7 @@ Bem-vindo à série de cursos da Sociedade Pinguim, focada em Lógica de Program
    - Aprendendo ao utilizar oa estrutura de repetição loop For
      
 7. **Loop While**
-   - utilizando a estrutura de repetição Loop While
+   - Utilizando a estrutura de repetição Loop While
      
 8. **Calculadora + BigBashView**
    - Desenvolvimento de uma calculadora  utilizando algoritimos com todo o conteudo que foi aprendido 
@@ -37,7 +37,7 @@ Bem-vindo à série de cursos da Sociedade Pinguim, focada em Lógica de Program
 
 ## Acesso à Playlist
 
-Acesse [aqui](https://www.youtube.com/watch?v=5tiW6gAQ6BQ&list=PLJfKrKfGUdOfhiuUcbob2eE7DNjQ8mAdy) para acessar a playlist completa no YouTube e começar sua jornada na lógica de programação em Shell Script.
+Clique [aqui](https://www.youtube.com/watch?v=5tiW6gAQ6BQ&list=PLJfKrKfGUdOfhiuUcbob2eE7DNjQ8mAdy) para acessar a playlist completa no YouTube e começar sua jornada na lógica de programação em Shell Script.
 
 Não se esqueça de se inscrever no canal da Sociedade Pinguim para receber atualizações sobre novos cursos e conteúdos relacionados à programação!
 
